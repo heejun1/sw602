@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int i;
+	int i;int i;
 	float num=0.0;
 
 	for(i=0; i<100; i++)
